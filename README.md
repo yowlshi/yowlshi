@@ -1,6 +1,6 @@
 ## 🚀 About Me
 - 🎓 Computer Engineering Student at Technological Institute of the Philippines (4th Year)
-- 💡 Passionate in Machine Learning, AI, Prototyping, Front-end Development
+- 💡 Passionate in Machine Learning, AI, Prototyping, Full-stack Development
 
 ## 🎯 Skills & Knowledge
 - 🤖 Experienced in basic circuit design, PCB layout, and microcontroller programming (e.g., Arduino, Raspberry Pi).
