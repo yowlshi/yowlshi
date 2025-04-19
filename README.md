@@ -11,7 +11,7 @@
 ## 📊 Github Stats
 ![Yowlshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowlshi&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yowlshi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yowlshi&layout=compact&bg_color=00000000)
 <!--
 **yowlshi/yowlshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
