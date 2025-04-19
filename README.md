@@ -9,7 +9,7 @@
 - ⌨ Proficient in Python, C++, Basic Object-Oriented Programming, and React JS at an intermediate level.
 
 ## 📊 Github Stats
-[![Yowlshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowlshi&show_icons=true&theme=transparent)
+![Yowlshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowlshi&show_icons=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yowlshi&layout=compact)
 <!--
