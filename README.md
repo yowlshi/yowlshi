@@ -7,6 +7,9 @@
 - 💻 Knowledge of networking fundamentals, including LAN setup and network troubleshooting.
 - 🦾 Familiarity with hardware-software integration for IoT systems.
 - ⌨ Proficient in Python, C++, Basic Object-Oriented Programming, and React JS at an intermediate level.
+
+
+[![Yowlshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowlshi)](https://github.com/yowlshi/github-readme-stats)
 <!--
 **yowlshi/yowlshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
