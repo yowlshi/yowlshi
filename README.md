@@ -1,5 +1,5 @@
 ## 🚀 ABOUT ME
-
+- 🎓 Computer Engineering Student at Technological Institute of the Philippines (4th Year)
 <!--
 **yowlshi/yowlshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
