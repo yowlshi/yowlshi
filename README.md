@@ -1,5 +1,12 @@
-## 🚀 ABOUT ME
+## 🚀 About Me
 - 🎓 Computer Engineering Student at Technological Institute of the Philippines (4th Year)
+- 💡 Passionate in Machine Learning, AI, Prototyping, Front-end Development
+
+## 🎯 Skills & Knowledge
+- 🤖 Experienced in basic circuit design, PCB layout, and microcontroller programming (e.g., Arduino, Raspberry Pi).
+- 💻 Knowledge of networking fundamentals, including LAN setup and network troubleshooting.
+- 🦾 Familiarity with hardware-software integration for IoT systems.
+- ⌨ Proficient in Python, C++, Basic Object-Oriented Programming, and React JS at an intermediate level.
 <!--
 **yowlshi/yowlshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
